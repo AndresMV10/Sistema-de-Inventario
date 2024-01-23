@@ -1,5 +1,0 @@
-Inventario de productos
-
-Índice	Producto	Cantidad	Precio
-0	Lima		500		100.00
-1	Manzana		43		80.00
